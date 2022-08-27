@@ -18,7 +18,7 @@ header{
 }
 
 .txt-box-input{
-    width: 600px;
+    width: 100%;
     display: block;
     min-height: 20vh;
     margin: 2rem;
