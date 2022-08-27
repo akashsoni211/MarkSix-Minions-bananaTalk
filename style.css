@@ -21,12 +21,10 @@ header{
     width: 100%;
     display: block;
     min-height: 20vh;
-    margin: 2rem;
     font-size: large;
 }
 
 .btn-translate{
-    margin: 2rem;
     display: block;
     padding: 1rem;
     width: 200px;
@@ -36,7 +34,6 @@ header{
     font-size: large;
 }
 #textoutput{
-    margin: 2rem;
     box-sizing: border-box;
     width: 100%;
     min-height: 20vh;
