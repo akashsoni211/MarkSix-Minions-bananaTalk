@@ -18,6 +18,7 @@ header{
 }
 
 .txt-box-input{
+    margin-top: 1rem;
     width: 100%;
     display: block;
     min-height: 20vh;
@@ -25,6 +26,7 @@ header{
 }
 
 .btn-translate{
+    margin-top: 1rem;
     display: block;
     padding: 1rem;
     width: 200px;
